@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vue,bootstrap,html,css,vscode,github,figma,laravel,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,,express,mysql,django" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,vuetify,express,mysql,django" /><br>
 </div>
 
 <br/>
