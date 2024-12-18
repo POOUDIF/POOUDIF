@@ -1,54 +1,50 @@
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daffa+Febrian+Saputra!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Indonesia</h3>
 
-<br/>
+---
 
 <div align="center">
- 
- 🔭 I’m currently working on **PGHG Office**
- 
- 🌱 I’m currently learning **Docker, Google Cloud, AWS**
 
-💬 Ask me about **PHP Native, Laravel, CodeIgniter, Node.js... or anything [here]([https://github.com/POOUDIF])**
+### 🌟 About Me
+🔭 **Currently Working On**: PGHG Office  
+🌱 **Currently Learning**: Docker, Google Cloud, AWS  
+💬 **Ask Me About**: PHP Native, Laravel, CodeIgniter, Node.js  
+⚡ **Fun Fact**: Undergraduate IT Student  
 
-⚡ Fun fact **Undergraduate Information Technology Student**
+</div>
 
- </div>
- 
+---
+
 <div align="center"> 
   <a href="mailto:daffafebriansaputra101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="(https://www.linkedin.com/in/daffa-febrian-saputra/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/daffa-febrian-saputra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+---
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,bootstrap,html,css,vscode,github,figma,laravel,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,php,vuetify,express,mysql,django, flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=vue,laravel,codeigniter,django,flask" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=vuetify,nodejs,express,bootstrap" alt="Libraries & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vscode,git,github,figma" alt="Tools" />
 </div>
 
-<br/>
-<hr/>
+---
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 GitHub Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
-
-<hr/>
 
 
