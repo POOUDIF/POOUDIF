@@ -9,10 +9,10 @@
 <div align="center">
 
 ### 🌟 About Me
-🔭 **Currently Working On**: PGHG Office  
+🔭 **Currently Working On**: Web Developer at PT. SMART Tbk.  
 🌱 **Currently Learning**: Docker, Google Cloud, AWS  
 💬 **Ask Me About**: PHP Native, Laravel, CodeIgniter, Node.js  
-⚡ **Fun Fact**: Undergraduate IT Student  
+⚡ **Fun Fact**: Freshgraduate IT Student  
 
 </div>
 
