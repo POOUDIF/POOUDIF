@@ -2,20 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daffa+Febrian+Saputra!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indonesia</h3>
+<h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 ---
 
 <div align="center">
 
 ### 🌟 About Me
-🔭 **Currently Working On**: Web Developer at PT. SMART Tbk.  
+🔭 **Currently Working On**: Web & Digital Projects at PT. SMART Tbk.  
 🌱 **Currently Learning**: Docker, Google Cloud, AWS  
-💬 **Ask Me About**: PHP Native, Laravel, CodeIgniter, Node.js  
+💬 **Ask Me About**: PHP (Laravel), Node.js, Python (Django & Flask), Java (Spring Boot)  
 ⚡ **Fun Fact**: Freshgraduate IT Student  
 
 </div>
-
 ---
 
 <div align="center"> 
