@@ -32,10 +32,10 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python" alt="Languages" />
-    <img src="https://skillicons.dev/icons?i=vue,laravel,django,flask" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=vue,laravel,django,flask,spring" alt="Frameworks" />
     <img src="https://skillicons.dev/icons?i=vuetify,nodejs,express,bootstrap" alt="Libraries & Frameworks" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" alt="Databases" />
     <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vscode,git,github,figma" alt="Tools" />
 </div>
 
